@@ -1,0 +1,7 @@
+pch.h
+pch.cpp
+*.idb
+*.tlog
+*.vcxproj
+ConsoleApplication7.vcxproj.filters
+*.txt
